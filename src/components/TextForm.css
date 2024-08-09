@@ -1,0 +1,4 @@
+.custom-textarea:focus {
+    outline: 2px solid grey;
+  }
+  
